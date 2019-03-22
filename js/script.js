@@ -1,6 +1,6 @@
 /*/////SCRIPT SHEET FOR BEATING HEART WITH TEXT/////*/
 
-const words = ['I love everything about you!'];
+const words = ['I love everything about you!   '];
 let count = 0;
 let index = 0;
 let currentWords = '';
